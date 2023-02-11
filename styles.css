@@ -3,7 +3,7 @@ body {
 }
 
 #content {
-  background-image: url("images/laptop.jpeg");
+  background-image: url("images/laptop.png");
   height: 100vh;
   width: 50%;
   background-size: contain;
